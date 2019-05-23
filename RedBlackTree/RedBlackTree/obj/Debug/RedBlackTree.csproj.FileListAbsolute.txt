@@ -1,0 +1,7 @@
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csprojAssemblyReference.cache
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe.config
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.pdb
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.exe
+C:\Users\kucha\OneDrive\Labs\siakod\Lab7Tree\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.pdb
